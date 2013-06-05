@@ -16,5 +16,6 @@ A utility for calculating the SHA-1 digest of an X509 certificate.
 License
 -------
 
-mwr-tls is released under the MWR Code License v2. See LICENSE for full details.
+mwr-tls is released under a 3-clause BSD License.
+See LICENSE for full details.
 
